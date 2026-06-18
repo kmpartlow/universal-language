@@ -35,7 +35,8 @@
         {
           "text": ""
         }
-      ]
+      ],
+      "align": "center"
     },
     {
       "type": "horizontal-separator",
@@ -187,7 +188,9 @@
                 {
                   "text": "Super Bowl LIX - Kendrick Lamar",
                   "textSize": "heading-three",
-                  "link": "https://kmpartlow.github.io/universal-language/pages/super-bowl-lix-halftime-show/"
+                  "link": "https://kmpartlow.github.io/universal-language/pages/super-bowl-lix-halftime-show/",
+                  "highlight": "#ffd4b8",
+                  "color": "#4a5293"
                 }
               ],
               "align": "center"
@@ -241,7 +244,8 @@
                 {
                   "text": "Super Bowl LX - Bad Bunny",
                   "textSize": "heading-three",
-                  "link": "https://kmpartlow.github.io/universal-language/pages/super-bowl-lx-halftime-show/"
+                  "link": "https://kmpartlow.github.io/universal-language/pages/super-bowl-lx-halftime-show/",
+                  "color": "#923425"
                 }
               ],
               "align": "center"
@@ -289,8 +293,29 @@
       ]
     },
     {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
+        {
+          "text": "Creator: Katrina Partlow",
+          "highlight": "#ffffff"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Contact: kpartlow@luc.edu",
+          "highlight": "#ffffff"
+        },
         {
           "text": "\n\n\n\n\n"
         }
@@ -300,7 +325,7 @@
   "created_at": "2026-06-18T18:42:50.717Z",
   "created_by": "kmpartlow",
   "title": "The Universal Language: Annotating Political Messaging during Super Bowl Halftime Shows",
-  "updated_at": "2026-06-18T19:49:08.610Z",
+  "updated_at": "2026-06-18T20:21:38.693Z",
   "updated_by": "kmpartlow",
   "autogenerate": {
     "enabled": false,
