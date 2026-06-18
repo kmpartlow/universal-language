@@ -36,12 +36,131 @@
           "text": ""
         }
       ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Media exposure has a direct, expansive impact in shaping the\npublic’s political knowledge, attitudes, and behavior. Forms of mass\ndistributed media have the power to shape public debate and understanding\nthrough implicit (or explicit) agenda pushing and the control of public\nattention on particular subjects, individuals, groups, and events. Mass media\naffirms attitudes and opinions that are already established, and further\n“activates” latent attitudes, prompting the public to take action. This\nphenomena is not restricted to any one state, country, or continent. As the\npresence of digital media, mass productions, and daily technology increases\nexponentially, it is necessary for the public to have the ability to critically\nanalyze the content that is being presented. This is not limited to basic or digital literacy, but literacy in media, art, information, and culture. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n\n\n\n\n"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\nCultural and artistic performances have the\npower to deliver political messaging as a form of resistance, representation,\nand revival, and this is only further amplified through mass streaming and\nbroadcasting. It is important to sit with, engage with, and attempt an\nunderstanding of performance art on major stages due to their inherent\npolitical nature. At a time when the political atmosphere in the United States\nis in turmoil, the Super Bowl halftime show stage is becoming a clear platform\nfor resistance. Both right, left, and independent politicals have the power and\nability to both consume and respond to art. In consuming media that may not\naffirm their initial biases or beliefs, and understanding the nuances in the\nmedia that does, the public will not only have a better understanding of the\nmedia consumed, but also deepen or build their understanding of others in groups not aligning or present within their own circles. \n\n\n"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Project Breakdown",
+          "textSize": "heading-two"
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "textSize": "heading-two",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This project aims to build a basic understanding of the importance of political messaging in performance art produced and consumed on major national stages. Two performances will be analyzed: the 59th and 60th Superbowl halftime performances. This analysis will provide an in-depth, annotated analysis of the visual and vocal political messaging in the provided performances and showcase the reach and reaction following the showcases. Tags will be used throughout the project to highlight various political and cultural themes in both visual and vocal groupings. Annotations will provide context to what the visuals are presenting, and as to the meaning behind and highlight of vocal snippets. The audience is not intended to be strictly academic, but reaches further toward the general public with an interest in U.S. based music performances, music, the presented artists, and the Superbowl. Resources will be provided for the audience to independently explore different modes of analysis and discussion that they may not have either been provided access to, sought out, or considered, if they choose to further explore this general topic or the specific performances provided. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n\n\n\n\n"
+        }
+      ]
     }
   ],
   "created_at": "2026-06-18T18:42:50.717Z",
   "created_by": "kmpartlow",
   "title": "The Universal Language: Annotating Political Messaging during Super Bowl Halftime Shows",
-  "updated_at": "2026-06-18T19:00:16.684Z",
+  "updated_at": "2026-06-18T19:06:35.480Z",
   "updated_by": "kmpartlow",
   "autogenerate": {
     "enabled": false,
