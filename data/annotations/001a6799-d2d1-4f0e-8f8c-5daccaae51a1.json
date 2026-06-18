@@ -1,5 +1,712 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Qué rico es ser latino\" [How wonderful it is to be Latino]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Vocal",
+          "category": "Mode"
+        },
+        {
+          "tag": "Cultural",
+          "category": "Reference"
+        }
+      ],
+      "uuid": "fb4048f1-e026-4eb7-af4e-ff614e2466b4"
+    },
+    {
+      "start_time": 7,
+      "end_time": 9,
+      "annotation": [
+        {
+          "text": "Sugarcane fields "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "A reminder of the island's colonial history as enslaved people were made to cultivate sugar cane starting in the 1500s. The US took the island by force at the end of the 19th century and set up its own lucrative sugar colony [1]"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Visual",
+          "category": "Mode"
+        },
+        {
+          "tag": "Set Design",
+          "category": "Form"
+        },
+        {
+          "tag": "Cultural",
+          "category": "Reference"
+        }
+      ],
+      "uuid": "99a2fb17-fab5-43b1-a614-f1bc4b4ee0e5"
+    },
+    {
+      "start_time": 18,
+      "end_time": 23,
+      "annotation": [
+        {
+          "text": "Farmers (jibaros) in traditional PR straw hats (pavas) that farmers would wear to protect themselves from the sun "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Pavas are a symbol of rural life and PR identity"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Visual",
+          "category": "Mode"
+        },
+        {
+          "tag": "Clothing",
+          "category": "Form"
+        },
+        {
+          "tag": "Cultural",
+          "category": "Reference"
+        }
+      ],
+      "uuid": "4f93be0d-a4e5-4dd8-bc61-7ea01eeca62c"
+    },
+    {
+      "start_time": 42,
+      "end_time": 45,
+      "annotation": [
+        {
+          "text": "Coco trio stand "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Call outs throughout the performance to various roadside stops and real businesses that can be found in the Caribbean and the US"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Visual",
+          "category": "Mode"
+        },
+        {
+          "tag": "Set Design",
+          "category": "Form"
+        },
+        {
+          "tag": "Cultural",
+          "category": "Reference"
+        }
+      ],
+      "uuid": "8235def9-41df-4bf1-ae7f-a89b6cafec3d"
+    },
+    {
+      "start_time": 66,
+      "end_time": 70,
+      "annotation": [
+        {
+          "text": "Piraguas (shaved ice) stand "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Acknowledges the interplay and commonalities among countries in the Americas [2]"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Visual",
+          "category": "Mode"
+        },
+        {
+          "tag": "Set Design",
+          "category": "Form"
+        },
+        {
+          "tag": "Cultural",
+          "category": "Reference"
+        }
+      ],
+      "uuid": "2ae9a0a4-60ce-436b-a4ee-b0637addfebe"
+    },
+    {
+      "start_time": 220,
+      "end_time": 222,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Estás escuchando música de Puerto Rico\" [You're listening to music from Puerto Rico]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Vocal",
+          "category": "Mode"
+        },
+        {
+          "tag": "Cultural",
+          "category": "Reference"
+        }
+      ],
+      "uuid": "86ef2a06-79e8-4b51-bffc-43523fa9d8f3"
+    },
+    {
+      "start_time": 254,
+      "end_time": 257,
+      "annotation": [
+        {
+          "text": "Concho, the PR crested toad "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "A species of toad that is native to PR and is considered critically endangered by the IUCN"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Visual",
+          "category": "Mode"
+        },
+        {
+          "tag": "Object",
+          "category": "Form"
+        },
+        {
+          "tag": "Cultural",
+          "category": "Reference"
+        }
+      ],
+      "uuid": "1843cd56-6490-47f2-a531-ea39d29c6f56"
+    },
+    {
+      "start_time": 275,
+      "end_time": 289,
+      "annotation": [
+        {
+          "text": "\"Es porque nunca, nunca dejé de creer en mí\nTú también debería', tú también deberías de creer en ti, Vales más de lo que piensa', créeme\" "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "[It's because I never, never stopped believing in myself, And you should, you should believe in yourself too, You're more valuable than you think, believe me]"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Vocal",
+          "category": "Mode"
+        },
+        {
+          "tag": "Call to Action",
+          "category": "Form"
+        }
+      ],
+      "uuid": "f6361f8e-6a09-4496-8ce1-790625be7c96"
+    },
+    {
+      "start_time": 308,
+      "end_time": 380,
+      "annotation": [
+        {
+          "text": "Lady Gaga sporting Flor de Maga, the official flower of PR "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "The native flower is a symbol of strength, resilience and beauty "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "The salsa adaptation of her song calls out to the calls for Bad Bunny to assimilate and translate his own songs for the performance [3]"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Visual",
+          "category": "Mode"
+        },
+        {
+          "tag": "Object",
+          "category": "Form"
+        },
+        {
+          "tag": "Cultural",
+          "category": "Reference"
+        }
+      ],
+      "uuid": "78c71140-9bce-4ccd-bea4-49376081fc99"
+    },
+    {
+      "start_time": 385,
+      "end_time": 390,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Mientras uno está vivo, uno debe amar lo más que pueda\" [While one is alive one must love as much as possible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Vocal",
+          "category": "Mode"
+        },
+        {
+          "tag": "Call to Action",
+          "category": "Form"
+        }
+      ],
+      "uuid": "a5664f37-4c94-427f-8ee5-2bebf01d2e64"
+    },
+    {
+      "start_time": 445,
+      "end_time": 450,
+      "annotation": [
+        {
+          "text": "\"Nueva York\" [New York] "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Highlighting the PR community and culture in New York"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Vocal",
+          "category": "Mode"
+        },
+        {
+          "tag": "Visual",
+          "category": "Mode"
+        },
+        {
+          "tag": "Cultural",
+          "category": "Reference"
+        },
+        {
+          "tag": "Set Design",
+          "category": "Form"
+        }
+      ],
+      "uuid": "c7837755-6164-4b84-8a64-c1f577f0014f"
+    },
+    {
+      "start_time": 526,
+      "end_time": 529,
+      "annotation": [
+        {
+          "text": "Maria Antonia (Toñita) Cay cameo "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Started the Caribbean Social Club in Williamsburg, which now serves as a hub for the New Yor-ican diaspora community [4]\n"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Visual",
+          "category": "Mode"
+        },
+        {
+          "tag": "Set Design",
+          "category": "Form"
+        },
+        {
+          "tag": "Cultural",
+          "category": "Reference"
+        }
+      ],
+      "uuid": "00eaed58-ce72-403c-81e4-3365ddc7b8da"
+    },
+    {
+      "start_time": 532,
+      "end_time": 543,
+      "annotation": [
+        {
+          "text": "Bad Bunny won the Grammy Award for Album of the Year as the first Spanish-language album to ever receive the award "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "He was inspired by Latino artists before him, and hopes to remind the next generation, and previous, that progress, success, and fulfillment is achievable"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Visual",
+          "category": "Mode"
+        },
+        {
+          "tag": "Vocal",
+          "category": "Mode"
+        },
+        {
+          "tag": "Cultural",
+          "category": "Reference"
+        },
+        {
+          "tag": "Call to Action",
+          "category": "Form"
+        }
+      ],
+      "uuid": "b6c41d80-747f-4067-b581-ad2b17bdc73d"
+    },
+    {
+      "start_time": 562,
+      "end_time": 593,
+      "annotation": [
+        {
+          "text": "\"No, no sueltes la bandera ni olvides el lelolai, Que no quiero que hagan contigo lo que le pasó a Hawái\" [No, don't let go of the flag nor forget the lelolai, 'Cause I don't want them to do to you what happened to Hawaii] "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": " Ricky Martin, another PR icon, sings a verse from Bad Bunny's song \"Lo Que Le Pasó a Hawaii\""
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Vocal",
+          "category": "Mode"
+        },
+        {
+          "tag": "Cultural",
+          "category": "Reference"
+        },
+        {
+          "tag": "Call to Action",
+          "category": "Form"
+        }
+      ],
+      "uuid": "7e777282-0852-488f-a17f-12790540a1d7"
+    },
+    {
+      "start_time": 595,
+      "end_time": 605,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El Apagón [\"The Blackout\"]\nReference to the socioeconomic issues in PR, specifically the frequent blackouts due to an unreliable power grid that was damaged by Hurrican Maria [5]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Vocal",
+          "category": "Mode"
+        },
+        {
+          "tag": "Visual",
+          "category": "Mode"
+        },
+        {
+          "tag": "Cultural",
+          "category": "Reference"
+        },
+        {
+          "tag": "Set Design",
+          "category": "Form"
+        }
+      ],
+      "uuid": "d4052003-7c93-44d3-bfdd-7681ec1feff2"
+    },
+    {
+      "start_time": 607,
+      "end_time": 635,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "PR flag used in the pro-independence movement when the U.S. sought control of the island. Banned by the U.S. gov. in 1948. The flag is still associated with the independence movement and anti-colonial sentiment [6]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Visual",
+          "category": "Mode"
+        },
+        {
+          "tag": "Cultural",
+          "category": "Reference"
+        },
+        {
+          "tag": "Object",
+          "category": "Form"
+        }
+      ],
+      "uuid": "76a2913d-be25-4897-9faf-c70885e14dc5"
+    },
+    {
+      "start_time": 664,
+      "end_time": 669,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"ahora todos quieren ser latino', no, Pero les falta sazón, batería y reggaetón\" [now everyone wants to be Latino, no, But they lack rhythm, drums and reggaetón]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Vocal",
+          "category": "Mode"
+        },
+        {
+          "tag": "Critical",
+          "category": "Reference"
+        }
+      ],
+      "uuid": "a976e11d-9ec8-4ffa-954b-58176bfd8bf4"
+    },
+    {
+      "start_time": 715,
+      "end_time": 742,
+      "annotation": [
+        {
+          "text": "\"God bless America, Sea […]\" [God bless America, doesn't matter if it's […]] "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Bringing together the theme of unity, and debasing the centralization of the US as \"America\""
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Vocal",
+          "category": "Mode"
+        },
+        {
+          "tag": "Visual",
+          "category": "Mode"
+        },
+        {
+          "tag": "Cultural",
+          "category": "Reference"
+        },
+        {
+          "tag": "Set Design",
+          "category": "Form"
+        }
+      ],
+      "uuid": "5aff2492-b06d-4beb-a6a5-5873bcb409e6"
+    },
+    {
+      "start_time": 724,
+      "end_time": 730,
+      "annotation": [
+        {
+          "text": "\"The only thing more powerful than hate is love\" "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Presented on the scoreboard screen, calling for all to spread love"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Visual",
+          "category": "Mode"
+        },
+        {
+          "tag": "Set Design",
+          "category": "Form"
+        }
+      ],
+      "uuid": "0fe1cbd1-65f3-4ab7-afc7-16281c54688b"
+    },
+    {
+      "start_time": 744,
+      "end_time": 746,
+      "annotation": [
+        {
+          "text": "\"Seguimo' aquí\" [We are still here] "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Despite the attempts to erase Latinos from the US and diminish their presense in the Americas, they are still present, thriving, living, and inspiring"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Vocal",
+          "category": "Mode"
+        },
+        {
+          "tag": "Call to Action",
+          "category": "Form"
+        },
+        {
+          "tag": "Critical",
+          "category": "Reference"
+        }
+      ],
+      "uuid": "817ae597-bd4f-41db-890f-79106690a335"
+    },
+    {
+      "start_time": 744,
+      "end_time": 745,
+      "annotation": [
+        {
+          "text": "\"Together, we are America\" "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "This phrase is enscribed on the football as a message of unity and love across the Americas, a form of response against the divisive US administration and ICE efforts"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Visual",
+          "category": "Mode"
+        },
+        {
+          "tag": "Call to Action",
+          "category": "Form"
+        },
+        {
+          "tag": "Critical",
+          "category": "Reference"
+        },
+        {
+          "tag": "Object",
+          "category": "Form"
+        }
+      ],
+      "uuid": "efb9a393-99fe-4fff-a7c1-76cc5e8f5ba8"
+    }
+  ],
   "set": "Default",
   "event_id": "d28ce8a1-8384-431e-8133-3f34bd428939",
   "source_id": "b7fd3fd4-3003-4223-b34f-867e00ac3d51"
