@@ -139,15 +139,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This project aims to build a basic understanding of the importance of political messaging in performance art produced and consumed on major national stages. Two performances will be analyzed: the 59th and 60th Superbowl halftime performances. This analysis will provide an in-depth, annotated analysis of the visual and vocal political messaging in the provided performances and showcase the reach and reaction following the showcases. Tags will be used throughout the project to highlight various political and cultural themes in both visual and vocal groupings. Annotations will provide context to what the visuals are presenting, and as to the meaning behind and highlight of vocal snippets. The audience is not intended to be strictly academic, but reaches further toward the general public with an interest in U.S. based music performances, music, the presented artists, and the Superbowl. Resources will be provided for the audience to independently explore different modes of analysis and discussion that they may not have either been provided access to, sought out, or considered, if they choose to further explore this general topic or the specific performances provided. "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "\n"
+          "text": "This project aims to build a basic understanding of the importance of political messaging in performance art produced and consumed on major national stages. Two performances will be analyzed: the 59th and 60th Superbowl halftime performances. This analysis will provide an in-depth, annotated analysis of the visual and vocal political messaging in the provided performances and showcase the reach and reaction following the showcases. Tags will be used throughout the project to highlight various political and cultural themes in both visual and vocal groupings. Annotations will provide context to what the visuals are presenting, and as to the meaning behind and highlight of vocal snippets. The audience is not intended to be strictly academic, but reaches further toward the general public with an interest in U.S. based music performances, music, the presented artists, and the Superbowl. Resources will be provided for the audience to independently explore different modes of analysis and discussion that they may not have either been provided access to, sought out, or considered, if they choose to further explore this general topic or the specific performances provided. \n"
         }
       ]
     },
@@ -171,6 +163,133 @@
     },
     {
       "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "textSize": "heading-two",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Super Bowl LIX - Kendrick Lamar",
+                  "textSize": "heading-three",
+                  "link": "https://kmpartlow.github.io/universal-language/pages/super-bowl-lix-halftime-show/"
+                }
+              ],
+              "align": "center"
+            },
+            {
+              "type": "paragraph",
+              "align": "center",
+              "children": [
+                {
+                  "textSize": "heading-three",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://www.billboard.com/wp-content/uploads/2025/02/20-kendrick-lamar-super-bowl-lix-halftime-show-2025-billboard-1548.jpg?w=1280",
+              "caption": "( Timothy A. Clary/AFP via Getty Images, Billboard, https://www.billboard.com/photos/kendrick-lamar-2025-super-bowl-halftime-show-best-photos-1235896866/15-20-kendrick-lamar-super-bowl-lix-halftime-show-2025-billboard-1548/)",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "left": 5,
+          "right": 5
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Super Bowl LX - Bad Bunny",
+                  "textSize": "heading-three",
+                  "link": "https://kmpartlow.github.io/universal-language/pages/super-bowl-lx-halftime-show/"
+                }
+              ],
+              "align": "center"
+            },
+            {
+              "type": "paragraph",
+              "align": "center",
+              "children": [
+                {
+                  "textSize": "heading-three",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://www.billboard.com/wp-content/uploads/2026/02/GettyImages-2260605086.jpg?w=1280",
+              "caption": "(Chris Graythen/Getty Images, Billboard, https://www.billboard.com/photos/super-bowl-2026-photos-halftime-show-celebrities-1236175958/4-bad-bunny/)",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "right": 5,
+          "left": 5
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": "\n\n\n\n\n"
@@ -181,7 +300,7 @@
   "created_at": "2026-06-18T18:42:50.717Z",
   "created_by": "kmpartlow",
   "title": "The Universal Language: Annotating Political Messaging during Super Bowl Halftime Shows",
-  "updated_at": "2026-06-18T19:11:58.131Z",
+  "updated_at": "2026-06-18T19:49:08.610Z",
   "updated_by": "kmpartlow",
   "autogenerate": {
     "enabled": false,
