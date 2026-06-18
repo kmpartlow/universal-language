@@ -1,0 +1,18 @@
+{
+  "audiovisual_files": {
+    "8180198a-d5cf-4246-8339-ab4bb430b2a1": {
+      "label": "All-American Halftime Show",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/live/GJYq3AJ06hA?si=o3_mRv1hxc7PLbxS",
+      "duration": 2199
+    }
+  },
+  "auto_generate_web_page": true,
+  "citation": "All-American Halftime Show, Kid Rock, Turning Point USA, February 8, 2026, https://www.youtube.com/live/GJYq3AJ06hA?si=o3_mRv1hxc7PLbxS",
+  "label": "All-American Halftime Show",
+  "created_at": "2026-06-18T18:45:24.380Z",
+  "created_by": "kmpartlow",
+  "updated_at": "2026-06-18T18:45:24.380Z",
+  "updated_by": "kmpartlow"
+}

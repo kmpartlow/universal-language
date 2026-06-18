@@ -1,0 +1,18 @@
+{
+  "audiovisual_files": {
+    "b7fd3fd4-3003-4223-b34f-867e00ac3d51": {
+      "label": "Super Bowl LX Halftime Show",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://ia902908.us.archive.org/23/items/bad-bunny-superbowl/Bad%20Bunny%20Superbowl.mp4",
+      "duration": 772
+    }
+  },
+  "auto_generate_web_page": true,
+  "citation": "Super Bowl LX Halftime Show, Bad Bunny, Apple Music, February 8, 2026, https://ia902908.us.archive.org/23/items/bad-bunny-superbowl/Bad%20Bunny%20Superbowl.mp4",
+  "label": "Super Bowl LX Halftime Show",
+  "created_at": "2026-06-18T18:45:24.380Z",
+  "created_by": "kmpartlow",
+  "updated_at": "2026-06-18T18:45:24.380Z",
+  "updated_by": "kmpartlow"
+}
