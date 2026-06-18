@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "2cd7d0fc-8b4d-4604-a6fc-c06e516e1288",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-06-18T18:45:24.561Z",
   "created_by": "kmpartlow",
   "title": "Super Bowl LIX Halftime Show",
   "slug": "super-bowl-lix-halftime-show",
-  "updated_at": "2026-06-18T18:45:24.561Z",
+  "updated_at": "2026-06-18T18:49:05.334Z",
   "updated_by": "kmpartlow",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "2cd7d0fc-8b4d-4604-a6fc-c06e516e1288"
   }
