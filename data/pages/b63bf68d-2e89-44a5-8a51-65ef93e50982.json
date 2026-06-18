@@ -26,7 +26,7 @@
           "text": ""
         }
       ],
-      "scale": 74,
+      "scale": 100,
       "align": "center"
     },
     {
@@ -67,15 +67,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "Media exposure has a direct, expansive impact in shaping the\npublic’s political knowledge, attitudes, and behavior. Forms of mass\ndistributed media have the power to shape public debate and understanding\nthrough implicit (or explicit) agenda pushing and the control of public\nattention on particular subjects, individuals, groups, and events. Mass media\naffirms attitudes and opinions that are already established, and further\n“activates” latent attitudes, prompting the public to take action. This\nphenomena is not restricted to any one state, country, or continent. As the\npresence of digital media, mass productions, and daily technology increases\nexponentially, it is necessary for the public to have the ability to critically\nanalyze the content that is being presented. This is not limited to basic or digital literacy, but literacy in media, art, information, and culture. "
+                  "text": "Media exposure has a direct, expansive impact in shaping the\npublic’s political knowledge, attitudes, and behavior. Forms of mass\ndistributed media have the power to shape public debate and understanding through implicit (or explicit) agenda pushing and the control of public attention on particular subjects, individuals, groups, and events. Mass media affirms attitudes and opinions that are already established, and further “activates” latent attitudes, prompting the public to take action. This phenomena is not restricted to any one state, country, or continent. As the presence of digital media, mass productions, and daily technology increases exponentially, it is necessary for the public to have the ability to critically analyze the content that is being presented. This is not limited to basic or digital literacy, but literacy in media, art, information, and culture. "
                 }
               ]
             },
@@ -87,7 +79,9 @@
                 }
               ]
             }
-          ]
+          ],
+          "left": 10,
+          "right": 0
         },
         {
           "type": "column",
@@ -96,11 +90,12 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "\nCultural and artistic performances have the\npower to deliver political messaging as a form of resistance, representation,\nand revival, and this is only further amplified through mass streaming and\nbroadcasting. It is important to sit with, engage with, and attempt an\nunderstanding of performance art on major stages due to their inherent\npolitical nature. At a time when the political atmosphere in the United States\nis in turmoil, the Super Bowl halftime show stage is becoming a clear platform\nfor resistance. Both right, left, and independent politicals have the power and\nability to both consume and respond to art. In consuming media that may not\naffirm their initial biases or beliefs, and understanding the nuances in the\nmedia that does, the public will not only have a better understanding of the\nmedia consumed, but also deepen or build their understanding of others in groups not aligning or present within their own circles. \n\n\n"
+                  "text": "\nCultural and artistic performances have the power to deliver political messaging as a form of resistance, representation, and revival, and this is only further amplified through mass streaming and broadcasting. It is important to sit with, engage with, and attempt an understanding of performance art on major stages due to their inherent political nature. At a time when the political atmosphere in the United States is in turmoil, the Super Bowl halftime show stage is becoming a clear platform for resistance. Both right, left, and independent politicals have the power and ability to both consume and respond to art. In consuming media that may not affirm their initial biases or beliefs, and understanding the nuances in the media that does, the public will not only have a better understanding of the media consumed, but also deepen or build their understanding of others in groups not aligning or present within their own circles. \n\n\n"
                 }
               ]
             }
-          ]
+          ],
+          "right": 10
         }
       ]
     },
@@ -152,7 +147,33 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n\n\n\n\n\n"
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Choose Your Performance",
+          "textSize": "heading-two"
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n\n\n\n"
         }
       ]
     }
@@ -160,7 +181,7 @@
   "created_at": "2026-06-18T18:42:50.717Z",
   "created_by": "kmpartlow",
   "title": "The Universal Language: Annotating Political Messaging during Super Bowl Halftime Shows",
-  "updated_at": "2026-06-18T19:06:35.480Z",
+  "updated_at": "2026-06-18T19:11:58.131Z",
   "updated_by": "kmpartlow",
   "autogenerate": {
     "enabled": false,
