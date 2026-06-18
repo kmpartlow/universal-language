@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "kmpartlow",
+    "is_private": false,
+    "title": "The Universal Language: Annotating Political Messaging during Super Bowl Halftime Shows",
+    "description": "This project annotates certain moments within the Super Bowl LIX and LX halftime shows that demonstrate political messaging through performance and musicality. The aim of this site is to build a basic understanding of the importance of political messaging in performance art produced and consumed on major national stages and develop literacy in media, art, information, and culture. ",
+    "language": "en",
+    "slug": "universal-language",
+    "creator": "kmpartlow",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2026-06-18T18:42:50.713Z",
+    "updated_at": "2026-06-18T18:42:50.713Z"
   }
 }
