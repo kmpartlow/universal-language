@@ -51,28 +51,45 @@
           "type": "column",
           "children": [
             {
-              "type": "block-quote",
+              "type": "paragraph",
               "children": [
                 {
-                  "text": "\"40 acres and a mule, this is bigger than the music.\"",
                   "bold": true,
                   "italic": true,
-                  "textSize": "heading-two"
+                  "textSize": "heading-one",
+                  "text": ""
                 }
               ]
             },
             {
-              "type": "block-quote",
+              "type": "paragraph",
+              "children": [
+                {
+                  "bold": true,
+                  "italic": true,
+                  "textSize": "heading-one",
+                  "text": "\"40 acres and a mule, this is bigger than the music.\""
+                }
+              ],
+              "align": "center"
+            },
+            {
+              "type": "paragraph",
               "children": [
                 {
                   "text": "- Kendrick Lamar",
                   "bold": true,
                   "italic": true,
-                  "textSize": "heading-two"
+                  "textSize": "heading-one"
                 }
-              ]
+              ],
+              "align": "center"
             }
-          ]
+          ],
+          "left": 5,
+          "right": 5,
+          "top": 5,
+          "bottom": 5
         }
       ]
     },
@@ -189,7 +206,15 @@
           ]
         },
         {
-          "text": ".\n[3] Tiana Clark, “Kendrick Lamar’s Halftime Show Was\nRadically Political, if You Knew Where to Look,” "
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "[3] Tiana Clark, “Kendrick Lamar’s Halftime Show Was\nRadically Political, if You Knew Where to Look,” "
         },
         {
           "text": "New York Times, ",
@@ -209,11 +234,12 @@
         },
         {
           "text": "."
-        },
-        {
-          "text": "\n",
-          "italic": true
-        },
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
           "text": "[4] Riley Wood, “Kendrick Lamar’s Super Bowl\nPerformance,” 2025."
         }
@@ -240,7 +266,7 @@
   "created_by": "kmpartlow",
   "title": "Super Bowl LIX Halftime Show",
   "slug": "super-bowl-lix-halftime-show",
-  "updated_at": "2026-06-19T13:58:55.446Z",
+  "updated_at": "2026-06-19T14:30:14.300Z",
   "updated_by": "kmpartlow",
   "autogenerate": {
     "enabled": false,
