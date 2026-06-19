@@ -2,19 +2,103 @@
   "content": [
     {
       "type": "block-quote",
-      "children": [
-        {
-          "text": "\"Seguimo' aquí\" [We are still here]"
-        }
-      ],
-      "align": "center"
-    },
-    {
-      "type": "block-quote",
       "align": "center",
       "children": [
         {
-          "text": "- Benito Antonio Martínez Ocasio"
+          "text": "",
+          "bold": true,
+          "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        2,
+        4
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://maroontigermedia.com/wp-content/uploads/2026/02/image.png",
+              "caption": "(Facebook/Meanwhile In Philly, Maroon Tiger Media, https://maroontigermedia.com/2026/02/bad-bunny-super-bowl-turning-point-usa-america-puerto-rico/)",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "block-quote",
+              "children": [
+                {
+                  "text": "",
+                  "bold": true,
+                  "textSize": "heading-two"
+                }
+              ]
+            },
+            {
+              "type": "block-quote",
+              "children": [
+                {
+                  "bold": true,
+                  "textSize": "heading-two",
+                  "text": "\"Seguimo' aquí\" [We are still here]"
+                }
+              ]
+            },
+            {
+              "type": "block-quote",
+              "children": [
+                {
+                  "text": "- Benito Antonio Martínez Ocasio",
+                  "bold": true,
+                  "textSize": "heading-two"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -215,7 +299,7 @@
   "created_by": "kmpartlow",
   "title": "Super Bowl LX Halftime Show",
   "slug": "super-bowl-lx-halftime-show",
-  "updated_at": "2026-06-19T13:38:37.870Z",
+  "updated_at": "2026-06-19T13:47:49.490Z",
   "updated_by": "kmpartlow",
   "autogenerate": {
     "enabled": false,
