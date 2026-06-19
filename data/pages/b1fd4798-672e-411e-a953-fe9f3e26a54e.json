@@ -62,38 +62,33 @@
               ]
             },
             {
-              "type": "block-quote",
-              "children": [
-                {
-                  "text": "",
-                  "bold": true,
-                  "textSize": "heading-two",
-                  "italic": true
-                }
-              ]
-            },
-            {
-              "type": "block-quote",
+              "type": "paragraph",
               "children": [
                 {
                   "bold": true,
-                  "textSize": "heading-two",
                   "text": "\"Seguimo' aquí\" [We are still here]",
-                  "italic": true
+                  "italic": true,
+                  "textSize": "heading-one"
                 }
-              ]
+              ],
+              "align": "center"
             },
             {
-              "type": "block-quote",
+              "type": "paragraph",
               "children": [
                 {
                   "text": "- Benito Antonio Martínez Ocasio",
                   "bold": true,
-                  "textSize": "heading-two"
+                  "textSize": "heading-one"
                 }
-              ]
+              ],
+              "align": "center"
             }
-          ]
+          ],
+          "left": 5,
+          "right": 5,
+          "top": 5,
+          "bottom": 5
         }
       ]
     },
@@ -302,7 +297,7 @@
   "created_by": "kmpartlow",
   "title": "Super Bowl LX Halftime Show",
   "slug": "super-bowl-lx-halftime-show",
-  "updated_at": "2026-06-19T13:48:22.246Z",
+  "updated_at": "2026-06-19T14:40:29.365Z",
   "updated_by": "kmpartlow",
   "autogenerate": {
     "enabled": false,
