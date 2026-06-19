@@ -56,7 +56,8 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": ""
+                  "text": "",
+                  "italic": true
                 }
               ]
             },
@@ -66,7 +67,8 @@
                 {
                   "text": "",
                   "bold": true,
-                  "textSize": "heading-two"
+                  "textSize": "heading-two",
+                  "italic": true
                 }
               ]
             },
@@ -76,7 +78,8 @@
                 {
                   "bold": true,
                   "textSize": "heading-two",
-                  "text": "\"Seguimo' aquí\" [We are still here]"
+                  "text": "\"Seguimo' aquí\" [We are still here]",
+                  "italic": true
                 }
               ]
             },
@@ -299,7 +302,7 @@
   "created_by": "kmpartlow",
   "title": "Super Bowl LX Halftime Show",
   "slug": "super-bowl-lx-halftime-show",
-  "updated_at": "2026-06-19T13:47:49.490Z",
+  "updated_at": "2026-06-19T13:48:22.246Z",
   "updated_by": "kmpartlow",
   "autogenerate": {
     "enabled": false,
