@@ -1,6 +1,32 @@
 {
   "content": [
     {
+      "type": "block-quote",
+      "children": [
+        {
+          "text": "\"Seguimo' aquí\" [We are still here]"
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "block-quote",
+      "align": "center",
+      "children": [
+        {
+          "text": "- Benito Antonio Martínez Ocasio"
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
@@ -29,13 +55,167 @@
           "text": ""
         }
       ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Footnotes",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "[1] Andrew R. Chow, “Bad Bunny’s Super Bowl Halftime Show Was an Exuberant Act of Resistance,” "
+        },
+        {
+          "text": "Time",
+          "italic": true
+        },
+        {
+          "text": ", February 8, 2026, "
+        },
+        {
+          "type": "link",
+          "url": "https://time.com/7373018/bad-bunny-super-bowl-halftime-show-analysis/",
+          "children": [
+            {
+              "text": "https://time.com/7373018/bad-bunny-super-bowl-halftime-show-analysis/"
+            }
+          ]
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "[2] Ricardo Zuniga, \"Breaking down the symbolism in Bad Bunny's Super Bowl halftime show,\" "
+        },
+        {
+          "text": "Associated Press",
+          "italic": true
+        },
+        {
+          "text": ", February 9, 2026, \n"
+        },
+        {
+          "type": "link",
+          "url": "https://apnews.com/article/bad-bunny-super-bowl-halftime-show-symbols-4252e3495e2b716b1be9064d5821b61e",
+          "children": [
+            {
+              "text": "https://apnews.com/article/bad-bunny-super-bowl-halftime-show-symbols-4252e3495e2b716b1be9064d5821b61e"
+            }
+          ]
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "[3] Abby Hughes, “Decoding the nods to Latino culture\nin Bad Bunny’s Super Bowl performance,” "
+        },
+        {
+          "text": "CBC News",
+          "italic": true
+        },
+        {
+          "text": ", February 9, 2026, "
+        },
+        {
+          "type": "link",
+          "url": "https://www.cbc.ca/news/entertainment/bad-bunny-super-bowl-9.7080714",
+          "children": [
+            {
+              "text": "https://www.cbc.ca/news/entertainment/bad-bunny-super-bowl-9.7080714"
+            }
+          ]
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "[4] Ibid."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "[5] Ibid."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "[6] Ibid."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "[7] Ibid."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "created_at": "2026-06-18T18:45:24.536Z",
   "created_by": "kmpartlow",
   "title": "Super Bowl LX Halftime Show",
   "slug": "super-bowl-lx-halftime-show",
-  "updated_at": "2026-06-18T18:49:07.694Z",
+  "updated_at": "2026-06-19T13:38:37.870Z",
   "updated_by": "kmpartlow",
   "autogenerate": {
     "enabled": false,
